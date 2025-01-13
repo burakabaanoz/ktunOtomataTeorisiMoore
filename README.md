@@ -1,0 +1,2 @@
+# ktunOtomataTeorisiMoore
+Moore Machine
